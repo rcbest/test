@@ -16,5 +16,6 @@ print(cities)
 del cities[3]
 print(cities)
 print(cities.upper())
+print(cities.title())
 
     
