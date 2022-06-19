@@ -15,5 +15,6 @@ cities.append('Lviv')
 print(cities)
 del cities[3]
 print(cities)
+print(cities.upper())
 
     
